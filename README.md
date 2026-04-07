@@ -78,11 +78,6 @@ Calculadora funcional focada em manipulação de eventos DOM e lógica com JavaS
 
 `JavaScript` `HTML5` `CSS3`
 
----
-
-## 📊 Estatísticas GitHub
----
-
 ## 📚 Formação
 
 🎓 **Bacharelado em Ciência da Computação** — UniAmerica Descomplica *(2023 – 2027)*
