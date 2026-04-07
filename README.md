@@ -81,15 +81,6 @@ Calculadora funcional focada em manipulação de eventos DOM e lógica com JavaS
 ---
 
 ## 📊 Estatísticas GitHub
-
-<div align="center">
-
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielcostaw&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcostaw&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
-</div>
-
 ---
 
 ## 📚 Formação
